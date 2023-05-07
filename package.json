@@ -4,6 +4,16 @@
   },
   "dependencies": {
     "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-donate": "^1.0.2"
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-donate": "^1.0.2",
+    "gitbook-plugin-editlink": "^1.0.2",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-expandable-chapters-small": "^0.1.7",
+    "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-page-footer-ex": "^0.1.2",
+    "gitbook-plugin-prism": "^2.4.0",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-splitter": "^0.0.8"
   }
 }
